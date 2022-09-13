@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "633996859350",
+    "project_id": "cafants",
+    "storage_bucket": "cafants.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633996859350:android:86b29fae1ec6cb99193677",
+        "android_client_info": {
+          "package_name": "com.afrinaldi.cafants"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633996859350-cq7ei37fahoout820g1co7n5o8ruofno.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0StPlBX2OFgWeK26nelGe8Q1SQqskPUI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633996859350-cq7ei37fahoout820g1co7n5o8ruofno.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
