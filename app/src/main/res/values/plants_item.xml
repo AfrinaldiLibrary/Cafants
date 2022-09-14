@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="plant_image">
+        <item>@drawable/plants1</item>
+        <item>@drawable/plants2</item>
+    </integer-array>
+
+    <string-array name="plant_humedity">
+        <item>80%</item>
+        <item>90%</item>
+    </string-array>
+
+    <string-array name="plant_water">
+        <item>2 kali sehari</item>
+        <item>3 kali sehari</item>
+    </string-array>
+
+</resources>

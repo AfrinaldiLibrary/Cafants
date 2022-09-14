@@ -5,7 +5,6 @@
     <string name="email">Email</string>
     <string name="password">Password</string>
     <string name="forgot_password">Forgot password?</string>
-    <string name="login">login</string>
     <string name="don_t_have_an_account_yet">Don\'t have an account yet?</string>
     <string name="sign_up">Sign Up</string>
     <string name="create_your_new_account">Create your new account</string>
@@ -13,4 +12,15 @@
     <string name="sign_in">Sign In</string>
     <string name="already_have_an_account">Already have an account?</string>
     <string name="confirm_password">Confirm Password</string>
+    <string name="forgot_password_title">Forgot Password</string>
+    <string name="forgot_password_detail">Enter your email for the verification processed</string>
+    <string name="send_verification">Send Verification</string>
+    <string name="application_detail">Cafants siap membantu kamu untuk memberikan cara bagaimana merawat tanaman</string>
+    <string name="daily_tasks">Tugas Harian</string>
+    <string name="watering">Siram</string>
+    <string name="humedity">Kelembapan</string>
+    <string name="greeting">Selamat datang</string>
+    <string name="loading">Loading</string>
+    <string name="verified_detail">Untuk melihat semua konten</string>
+    <string name="verified">Verifikasi Email</string>
 </resources>
