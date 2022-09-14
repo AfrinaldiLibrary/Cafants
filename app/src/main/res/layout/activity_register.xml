@@ -48,7 +48,7 @@
         android:layout_width="0dp"
         android:layout_height="0dp"
         android:layout_marginTop="220dp"
-        android:background="@drawable/shape_container"
+        android:background="@drawable/shape_container_register"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -111,6 +111,25 @@
             app:layout_constraintEnd_toEndOf="@+id/cl_containter"
             app:layout_constraintStart_toStartOf="@+id/cl_containter" />
 
+        <EditText
+            android:id="@+id/et_confirm_password"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:padding="16dp"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="16dp"
+            android:layout_marginEnd="16dp"
+            android:ems="10"
+            android:textColorHint="@color/light_green"
+            android:background="@drawable/bg_edit_text"
+            android:hint="@string/confirm_password"
+            android:inputType="textPassword"
+            android:textColor="@color/green_active"
+            android:fontFamily="@font/montserrat_regular"
+            app:layout_constraintTop_toBottomOf="@+id/et_password"
+            app:layout_constraintEnd_toEndOf="@+id/cl_containter"
+            app:layout_constraintStart_toStartOf="@+id/cl_containter" />
+
         <androidx.appcompat.widget.AppCompatButton
             android:id="@+id/btn_signup"
             android:layout_width="0dp"
@@ -140,6 +159,7 @@
             app:layout_constraintTop_toBottomOf="@+id/btn_signup" />
 
         <TextView
+            android:id="@+id/tv_sign_in"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginStart="4dp"

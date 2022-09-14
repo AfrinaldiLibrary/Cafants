@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Project/Cafants/app/src/main/res/drawable-v24/shape_container_register.xml" value="0.1" />
         <entry key="..\:/Project/Cafants/app/src/main/res/drawable/shape_container.xml" value="0.1045" />
+        <entry key="..\:/Project/Cafants/app/src/main/res/drawable/shape_container_login.xml" value="0.1" />
         <entry key="..\:/Project/Cafants/app/src/main/res/layout/activity_login.xml" value="0.2" />
         <entry key="..\:/Project/Cafants/app/src/main/res/layout/activity_main.xml" value="0.26197916666666665" />
         <entry key="..\:/Project/Cafants/app/src/main/res/layout/activity_register.xml" value="0.176" />
